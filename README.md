@@ -2,7 +2,7 @@
 Remotely fetched lists for the [Fusion multiplayer mod](https://github.com/Lakatrazz/BONELAB-Fusion).
 
 ## Global Ban List
-The Global Ban List is contained at [globalBans.json](globalBans.json). It contains the following information in json format:
+The Global Ban List is located at [globalBans.json](globalBans.json). It contains the following information in json format:
 - Username
 - Reason
 - Games
@@ -14,3 +14,8 @@ The Global Ban List is contained at [globalBans.json](globalBans.json). It conta
 Global bans prevent the joining and hosting of Public and Private lobbies, but still allow Friends Only lobbies. Bans are reserved for only the most problematic users; smaller offenses can be handled by individual lobby bans.
 
 You can view the general Fusion rules [here](RULES.md).
+
+## Profanity List
+The Profanity List is located at [profanityList.json](profanityList.json) and contains excessive slurs and curse words that are blocked from lobby names, descriptions, usernames, etc.
+
+Profanity can be toggled on or off in Fusion settings.
