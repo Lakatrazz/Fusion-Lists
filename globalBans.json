@@ -1,21 +1,6 @@
 {
   "bans": [
     {
-      "username": "CooladTheGreat",
-      "reason": "Malicious Client Use",
-      "games": [
-        {
-          "game": "BONELAB"
-        }
-      ],
-      "platforms": [
-        {
-          "platformId": 76561198852374047,
-          "platform": "Steam"
-        }
-      ]
-    },
-    {
       "username": "boiohbooi",
       "reason": "Malicious Client Use",
       "games": [
