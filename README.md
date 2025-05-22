@@ -19,3 +19,6 @@ You can view the general Fusion rules [here](RULES.md).
 The Profanity List is located at [profanityList.json](profanityList.json) and contains excessive slurs and curse words that are blocked from lobby names, descriptions, usernames, etc.
 
 Profanity can be toggled on or off in Fusion settings.
+
+## Global Mod Blacklist
+The Global Mod Blacklist is located at [globalModBlacklist.json](globalModBlacklist.json) and contains mod.io mods with malicious spawnables, avatars, or other features. These are usually leveraged by clients or extreme crashers.
