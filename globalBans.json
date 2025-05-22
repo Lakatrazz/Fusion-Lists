@@ -1,0 +1,169 @@
+{
+  "bans": [
+    {
+      "username": "CooladTheGreat",
+      "reason": "Malicious Client Use",
+      "games": [
+        {
+          "game": "BONELAB"
+        }
+      ],
+      "platforms": [
+        {
+          "platformId": 76561198852374047,
+          "platform": "Steam"
+        }
+      ]
+    },
+    {
+      "username": "boiohbooi",
+      "reason": "Malicious Client Use",
+      "games": [
+        {
+          "game": "BONELAB"
+        }
+      ],
+      "platforms": [
+        {
+          "platformId": 76561199096954025,
+          "platform": "Steam"
+        }
+      ]
+    },
+    {
+      "username": "Daytrip",
+      "reason": "Creation of a Malicious Client",
+      "games": [
+        {
+          "game": "BONELAB"
+        }
+      ],
+      "platforms": [
+        {
+          "platformId": 76561198889496180,
+          "platform": "Steam"
+        }
+      ]
+    },
+    {
+      "username": "K2Rocket",
+      "reason": "Malicious Client Use",
+      "games": [
+        {
+          "game": "BONELAB"
+        }
+      ],
+      "platforms": [
+        {
+          "platformId": 76561198235881106,
+          "platform": "Steam"
+        }
+      ]
+    },
+    {
+      "username": "AdrianStillPlays",
+      "reason": "Malicious Client Use, ERP",
+      "games": [
+        {
+          "game": "BONELAB"
+        }
+      ],
+      "platforms": [
+        {
+          "platformId": 76561199380636610,
+          "platform": "Steam"
+        }
+      ]
+    },
+    {
+      "username": "Pocky1131",
+      "reason": "Malicious Client Use, ERP",
+      "games": [
+        {
+          "game": "BONELAB"
+        }
+      ],
+      "platforms": [
+        {
+          "platformId": 76561198864567577,
+          "platform": "Steam"
+        }
+      ]
+    },
+    {
+      "username": "boowomp",
+      "reason": "Malicious Client Use, Despawning Players",
+      "games": [
+        {
+          "game": "BONELAB"
+        }
+      ],
+      "platforms": [
+        {
+          "platformId": 76561198857850545,
+          "platform": "Steam"
+        }
+      ]
+    },
+    {
+      "username": "Inflation Furries",
+      "reason": "Malicious Client Use, Despawning Players",
+      "games": [
+        {
+          "game": "BONELAB"
+        }
+      ],
+      "platforms": [
+        {
+          "platformId": 76561198974319069,
+          "platform": "Steam"
+        }
+      ]
+    },
+    {
+      "username": "Allison",
+      "reason": "Public Sexual Behaviour",
+      "games": [
+        {
+          "game": "BONELAB"
+        }
+      ],
+      "platforms": [
+        {
+          "platformId": 76561199220843755,
+          "platform": "Steam"
+        }
+      ]
+    },
+    {
+      "username": "StellaDev",
+      "reason": "Rapid Spam Spawning, Malicious Crashing of Servers",
+      "games": [
+        {
+          "game": "BONELAB"
+        }
+      ],
+      "platforms": [
+        {
+          "platformId": 76561199108580189,
+          "platform": "Steam"
+        }
+      ]
+    },
+    {
+      "username": "what am i doing",
+      "reason": "Public Sexual Behaviour",
+      "games": [
+        {
+          "game": "BONELAB"
+        }
+      ],
+      "platforms": [
+        {
+          "platformId": 76561199130192358,
+          "platform": "Steam"
+        }
+      ]
+    }
+  ]
+}
