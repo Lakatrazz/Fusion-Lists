@@ -6,6 +6,8 @@ The use of "clients" (external mods) to instantly crash public servers is strict
 
 The creation and distribution of these clients will also result in a global ban. You can use them in private lobbies however, as no harm is dealt.
 
+Things that are not considered clients are small mods that do little harm, like god mode or flight. These can be handled by the server hosts.
+
 ### 2. Public Sexual Behavior
 BONELAB, while a mature game, has a community consisting mostly of children. ERPing in public lobbies, consentual or forced, sexualized or normal avatars, is prohibited. If you feel the need to, please resort to Private and Friends Only lobbies. Note that ERPing with minors is still prohibited in private lobbies, and if you desire to commit these acts, you need genuine help.
 
