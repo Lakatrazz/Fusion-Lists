@@ -21,4 +21,14 @@ The Profanity List is located at [profanityList.json](profanityList.json) and co
 Profanity can be toggled on or off in Fusion settings.
 
 ## Global Mod Blacklist
-The Global Mod Blacklist is located at [globalModBlacklist.json](globalModBlacklist.json) and contains mod.io mods with malicious spawnables, avatars, or other features. These are usually leveraged by clients or extreme crashers.
+The Global Mod Blacklist is located at [globalModBlacklist.json](globalModBlacklist.json) and contains mod.io mods with malicious spawnables, avatars, or other features.
+
+Similar to the Global Ban List, globally blacklisted mods are only for severe cases.
+
+Prohibited:
+
+     - Contains hidden, malicious content that allows the user to crash or grief public lobbies
+
+Allowed:
+
+     - Everything else (including NSFW avatars, as long as they are marked mature)
