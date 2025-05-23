@@ -32,4 +32,4 @@ Prohibited:
 - ERPing with minors in general
 
 Allowed:
-- NSFW avatars (must be marked as mature on mod.io)
+- NSFW avatars (must be marked as mature on mod.io if NSFW is easily visible)
