@@ -1,17 +1,39 @@
 # Fusion Rules
-Getting globally banned is restricted to major offenses. If any of the following rules are broken, you will receive a global ban:
+Getting globally banned is restricted to major offenses committed across multiple lobbies. Note that these rules do NOT apply to Private lobbies, where you can do whatever you want.
+
+If any of the following rules are broken, you will receive a global ban:
 
 ### 1. Malicious Client Use
-The use of "clients" (external mods) to instantly crash public servers is strictly prohibited. This can include mass constraining, rapid spawning, player despawning, etc.
+The use of "clients" (external mods) to instantly crash Public servers is strictly prohibited.
 
 The creation and distribution of these clients will also result in a global ban. You can use them in private lobbies however, as no harm is dealt.
 
-Things that are not considered clients are small mods that do little harm, like god mode or flight. These can be handled by the server hosts.
+Prohibited:
+
+     - Intentionally spawning hundreds of objects instantly
+     - Intentionally despawning players
+     - Intentionally mass constraining all players to a single point in the map, making the game unplayable
+     - Intentionally instantly crashing the server through the use of a client
+Allowed:
+
+     - God Mode
+     - Flight
+     - Other minor offenses
+
+#### IMPORTANT
+Even if the prohibited acts are committed, you may not receive a global ban. If you only ever do them in a single lobby or a short period of time and stop afterwards, you will not be added to the list.
+
+Remember: global bans are for *serious offenses only*, across *multiple lobbies* for a long period of time. If you are a nuisance for maybe a few days or a week, you will be ignored. But destroying lobbies for multiple
+weeks in multiple servers will land you globally banned.
 
 ### 2. Public Sexual Behavior
-BONELAB, while a mature game, has a community consisting mostly of children. ERPing in public lobbies, consentual or forced, sexualized or normal avatars, is prohibited. If you feel the need to, please resort to Private and Friends Only lobbies. Note that ERPing with minors is still prohibited in private lobbies, and if you desire to commit these acts, you need genuine help.
+BONELAB, while a mature game, has a community consisting mostly of children. It is important to recognize that and restrict any sexual behaviour to Private or Friends Only lobbies.
 
-### 3. Force Joining Private Lobbies
-This extends under Rule #1, where the use of clients to join lobbies that would otherwise require a code is strictly prohibited. If you want to join a lobby, please ask the host to provide you the code.
+Prohibited:
 
-If you find yourself worried of the possibility of users forcefully joining your lobbies, use the Friends Only or Locked visibility modes as they are secure and cannot be force joined.
+     - ERPing in public lobbies
+     - ERPing with minors in general
+
+Allowed:
+
+     - NSFW avatars (must be marked as mature on mod.io)
