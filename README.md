@@ -30,3 +30,5 @@ Prohibited:
 
 Allowed:
 - Everything else (including NSFW avatars, as long as they are marked mature)
+
+Globally blacklisted mods will still function in Private and Friends Only lobbies, but they will not function in Public lobbies.
