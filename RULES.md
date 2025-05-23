@@ -28,10 +28,8 @@ Allowed:
 BONELAB, while a mature game, has a community consisting mostly of children. It is important to recognize that and restrict any sexual behaviour to Private or Friends Only lobbies.
 
 Prohibited:
-
-     - ERPing in public lobbies
-     - ERPing with minors in general
+- ERPing in public lobbies
+- ERPing with minors in general
 
 Allowed:
-
-     - NSFW avatars (must be marked as mature on mod.io)
+- NSFW avatars (must be marked as mature on mod.io)
