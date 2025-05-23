@@ -26,9 +26,7 @@ The Global Mod Blacklist is located at [globalModBlacklist.json](globalModBlackl
 Similar to the Global Ban List, globally blacklisted mods are only for severe cases.
 
 Prohibited:
-
-     - Contains hidden, malicious content that allows the user to crash or grief public lobbies
+- Contains hidden, malicious content that allows the user to crash or grief public lobbies
 
 Allowed:
-
-     - Everything else (including NSFW avatars, as long as they are marked mature)
+- Everything else (including NSFW avatars, as long as they are marked mature)
