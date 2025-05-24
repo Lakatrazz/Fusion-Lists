@@ -15,6 +15,10 @@ Global bans prevent the joining and hosting of Public and Private lobbies, but s
 
 For someone to be globally banned, verifiable hard evidence needs to be provided by multiple sources. One source will not constitute a ban.
 
+If you would like to report someone, [submit a ban report here.](https://docs.google.com/forms/d/e/1FAIpQLScGK73O2jhOQOXtfHFahOrMZeuVfjYlKbdDPupaifjLGG_QMA/viewform?usp=sharing&ouid=101387100992631090035)
+
+If you are banned and would like to appeal, [submit an appeal here.](https://docs.google.com/forms/d/e/1FAIpQLSfqgBtc-EOxNvrtQIPJaC4W1xsrhVqe6DbxuSpvwicQBg_JMQ/viewform?usp=sharing&ouid=101387100992631090035)
+
 You can view the general Fusion rules [here](RULES.md).
 
 ## Profanity List
