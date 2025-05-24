@@ -13,6 +13,8 @@ The Global Ban List is located at [globalBans.json](globalBans.json). It contain
  
 Global bans prevent the joining and hosting of Public and Private lobbies, but still allow Friends Only lobbies. Bans are reserved for only the most problematic users; smaller offenses can be handled by individual lobby bans.
 
+For someone to be globally banned, verifiable hard evidence needs to be provided by multiple sources. One source will not constitute a ban.
+
 You can view the general Fusion rules [here](RULES.md).
 
 ## Profanity List
