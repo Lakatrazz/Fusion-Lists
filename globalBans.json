@@ -1,21 +1,6 @@
 {
   "bans": [
     {
-      "username": "boiohbooi",
-      "reason": "Malicious Client Use",
-      "games": [
-        {
-          "game": "BONELAB"
-        }
-      ],
-      "platforms": [
-        {
-          "platformId": 76561199096954025,
-          "platform": "Steam"
-        }
-      ]
-    },
-    {
       "username": "Daytrip",
       "reason": "Creation of a Malicious Client",
       "games": [
