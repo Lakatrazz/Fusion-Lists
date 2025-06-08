@@ -2,6 +2,21 @@
   "whitelist": [
     {
       "domain": "cdn.discordapp.com"
+    },
+    {
+      "domain": "imgur.com"
+    },
+    {
+      "domain": "video.twimg.com"
+    },
+    {
+      "domain": "catbox.moe"
+    },
+    {
+      "domain": "drive.google.com"
+    },
+    {
+      "domain": "packaged-media.redd.it"
     }
   ]
 }
