@@ -1,4 +1,7 @@
 {
   "whitelist": [
+    {
+      "domain": "cdn.discordapp.com"
+    }
   ]
 }
