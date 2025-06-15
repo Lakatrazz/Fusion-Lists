@@ -26,6 +26,9 @@
     },
     {
       "domain": "www.dropbox.com"
+    },
+    {
+      "domain": "archive.org"
     }
   ]
 }
