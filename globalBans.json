@@ -31,6 +31,21 @@
       ]
     },
     {
+      "username": "TheChainReaper",
+      "reason": "Playing NSFW Material on Media Players",
+      "games": [
+        {
+          "game": "BONELAB"
+        }
+      ],
+      "platforms": [
+        {
+          "platformID": 76561199199917329,
+          "platform": "Steam"
+        }
+      ]
+    },
+    {
       "username": "K2Rocket",
       "reason": "Malicious Client Use",
       "games": [
