@@ -31,21 +31,6 @@
       ]
     },
     {
-      "username": "bingbof",
-      "reason": "Playing NSFW Material on Media Players",
-      "games": [
-        {
-          "game": "BONELAB"
-        }
-      ],
-      "platforms": [
-        {
-          "platformID": 76561199072395574,
-          "platform": "Steam"
-        }
-      ]
-    },
-    {
       "username": "K2Rocket",
       "reason": "Malicious Client Use",
       "games": [
