@@ -46,6 +46,21 @@
       ]
     },
     {
+      "username": "allan.stewy",
+      "reason": "Playing NSFW Material on Media Players",
+      "games": [
+        {
+          "game": "BONELAB"
+        }
+      ],
+      "platforms": [
+        {
+          "platformID": 76561198068010082,
+          "platform": "Steam"
+        }
+      ]
+    },
+    {
       "username": "AdrianStillPlays",
       "reason": "Malicious Client Use, ERP",
       "games": [
