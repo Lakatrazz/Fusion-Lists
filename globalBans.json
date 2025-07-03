@@ -61,6 +61,36 @@
       ]
     },
     {
+      "username": "BlackLife",
+      "reason": "Playing NSFW Material on Media Players",
+      "games": [
+        {
+          "game": "BONELAB"
+        }
+      ],
+      "platforms": [
+        {
+          "platformID": 76561199680801107,
+          "platform": "Steam"
+        }
+      ]
+    },
+    {
+      "username": "NV615",
+      "reason": "Playing NSFW Material on Media Players",
+      "games": [
+        {
+          "game": "BONELAB"
+        }
+      ],
+      "platforms": [
+        {
+          "platformID": 76561199827738619,
+          "platform": "Steam"
+        }
+      ]
+    },
+    {
       "username": "AdrianStillPlays",
       "reason": "Malicious Client Use, ERP",
       "games": [
