@@ -121,21 +121,6 @@
       ]
     },
     {
-      "username": "boowomp",
-      "reason": "Malicious Client Use, Despawning Players",
-      "games": [
-        {
-          "game": "BONELAB"
-        }
-      ],
-      "platforms": [
-        {
-          "platformID": 76561198857850545,
-          "platform": "Steam"
-        }
-      ]
-    },
-    {
       "username": "Inflation Furries",
       "reason": "Malicious Client Use, Despawning Players",
       "games": [
