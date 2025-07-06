@@ -27,7 +27,7 @@ Allowed:
 - Other minor offenses
 
 ### 2. Public Sexual Behavior
-BONELAB, while a mature game, has a community consisting mostly of children. It is important to recognize that and restrict any sexual behaviour to Private or Friends Only lobbies.
+BONELAB, while a mature game, has a community consisting mostly of children. It is important to recognize that and restrict any sexual behavior to Private or Friends Only lobbies.
 
 Prohibited:
 - ERPing in public lobbies
