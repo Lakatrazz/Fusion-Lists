@@ -1,6 +1,8 @@
 # Fusion Rules
 Getting globally banned is restricted to major offenses committed across multiple lobbies. Note that these rules do NOT apply to Private lobbies, where you can do whatever you want.
 
+It should be understood that getting banned once may be appealed easily, especially if a user does not continue the behavior that led to their ban or if the offense was minor. However, if they continue this behavior after being unbanned, they will be permanently banned once more without hesitation.
+
 #### IMPORTANT DISCLAIMER
 Even if the prohibited acts are committed, you may *not* receive a global ban. If you only ever do them in a single lobby or a short period of time and stop afterwards, you will not be added to the list.
 
