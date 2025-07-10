@@ -16,6 +16,36 @@
       ]
     },
     {
+      "username": "K2Rocket",
+      "reason": "Malicious Client Use, Alting",
+      "games": [
+        {
+          "game": "BONELAB"
+        }
+      ],
+      "platforms": [
+        {
+          "platformID": 76561198235881106,
+          "platform": "Steam"
+        }
+      ]
+    },
+    {
+      "username": "user555",
+      "reason": "Malicious Client Use, Alting",
+      "games": [
+        {
+          "game": "BONELAB"
+        }
+      ],
+      "platforms": [
+        {
+          "platformID": 76561199873854390,
+          "platform": "Steam"
+        }
+      ]
+    },
+    {
       "username": "Abibas_yt",
       "reason": "Playing NSFW Material on Media Players",
       "games": [
