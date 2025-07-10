@@ -107,7 +107,7 @@
     },
     {
       "username": "AdrianStillPlays",
-      "reason": "Malicious Client Use, ERP",
+      "reason": "Malicious Client Use, ERP, Alting",
       "games": [
         {
           "game": "BONELAB"
@@ -116,6 +116,21 @@
       "platforms": [
         {
           "platformID": 76561199380636610,
+          "platform": "Steam"
+        }
+      ]
+    },
+    {
+      "username": "BlackLife",
+      "reason": "AdrianStillPlays Alt",
+      "games": [
+        {
+          "game": "BONELAB"
+        }
+      ],
+      "platforms": [
+        {
+          "platformID": 76561199680801107,
           "platform": "Steam"
         }
       ]
