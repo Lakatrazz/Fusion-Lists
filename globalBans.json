@@ -181,6 +181,21 @@
       ]
     },
     {
+      "username": "GLaDOS",
+      "reason": "Alting",
+      "games": [
+        {
+          "game": "BONELAB"
+        }
+      ],
+      "platforms": [
+        {
+          "platformID": 76561199877028872,
+          "platform": "Steam"
+        }
+      ]
+    },
+    {
       "username": "Pocky1131",
       "reason": "Malicious Client Use, ERP",
       "games": [
