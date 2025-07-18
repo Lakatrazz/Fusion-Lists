@@ -226,6 +226,21 @@
       ]
     },
     {
+      "username": "ballsontoast222",
+      "reason": "Alting",
+      "games": [
+        {
+          "game": "BONELAB"
+        }
+      ],
+      "platforms": [
+        {
+          "platformID": 76561199879535062,
+          "platform": "Steam"
+        }
+      ]
+    },
+    {
       "username": "Pocky1131",
       "reason": "Malicious Client Use, ERP",
       "games": [
