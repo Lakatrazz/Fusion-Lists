@@ -106,6 +106,21 @@
       ]
     },
     {
+      "username": "number_1_tim_allen_fan",
+      "reason": "Playing NSFW Material on Media Players",
+      "games": [
+        {
+          "game": "BONELAB"
+        }
+      ],
+      "platforms": [
+        {
+          "platformID": 76561199875320673,
+          "platform": "Steam"
+        }
+      ]
+    },
+    {
       "username": "AdrianStillPlays",
       "reason": "Malicious Client Use, ERP, Alting",
       "games": [
