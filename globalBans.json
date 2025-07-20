@@ -121,6 +121,21 @@
       ]
     },
     {
+      "username": "DEALING_PUPPET42",
+      "reason": "Playing NSFW Material on Media Players",
+      "games": [
+        {
+          "game": "BONELAB"
+        }
+      ],
+      "platforms": [
+        {
+          "platformID": 76561198965184503,
+          "platform": "Steam"
+        }
+      ]
+    },
+    {
       "username": "misanex",
       "reason": "Malicious Client Use",
       "games": [
