@@ -181,6 +181,36 @@
       ]
     },
     {
+      "username": "W_zzy",
+      "reason": "Alting",
+      "games": [
+        {
+          "game": "BONELAB"
+        }
+      ],
+      "platforms": [
+        {
+          "platformID": 76561199878200933,
+          "platform": "Steam"
+        }
+      ]
+    },
+    {
+      "username": "GlorpinBebBe",
+      "reason": "Malicious Client Use",
+      "games": [
+        {
+          "game": "BONELAB"
+        }
+      ],
+      "platforms": [
+        {
+          "platformID": 76561199862996099,
+          "platform": "Steam"
+        }
+      ]
+    },
+    {
       "username": "SurfinBird",
       "reason": "Alting",
       "games": [
