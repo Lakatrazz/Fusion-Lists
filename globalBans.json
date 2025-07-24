@@ -136,6 +136,21 @@
       ]
     },
     {
+      "username": "Kingslayer",
+      "reason": "Playing NSFW Material on Media Players",
+      "games": [
+        {
+          "game": "BONELAB"
+        }
+      ],
+      "platforms": [
+        {
+          "platformID": 76561199846350326,
+          "platform": "Steam"
+        }
+      ]
+    },
+    {
       "username": "misanex",
       "reason": "Malicious Client Use",
       "games": [
