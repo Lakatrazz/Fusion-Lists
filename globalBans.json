@@ -151,6 +151,21 @@
       ]
     },
     {
+      "username": "gifting mann of gifting lannd",
+      "reason": "Playing NSFW Material on Media Players",
+      "games": [
+        {
+          "game": "BONELAB"
+        }
+      ],
+      "platforms": [
+        {
+          "platformID": 76561198245315262,
+          "platform": "Steam"
+        }
+      ]
+    },
+    {
       "username": "misanex",
       "reason": "Malicious Client Use",
       "games": [
