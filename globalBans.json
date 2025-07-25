@@ -419,6 +419,21 @@
           "platform": "Steam"
         }
       ]
+    },
+    {
+      "username": "stelladev",
+      "reason": "Griefing Public Lobbies",
+      "games": [
+        {
+          "game": "BONELAB"
+        }
+      ],
+      "platforms": [
+        {
+          "platformID": 76561199108580189,
+          "platform": "Steam"
+        }
+      ]
     }
   ]
 }
