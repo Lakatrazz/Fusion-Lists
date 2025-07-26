@@ -136,21 +136,6 @@
       ]
     },
     {
-      "username": "Kingslayer",
-      "reason": "Playing NSFW Material on Media Players",
-      "games": [
-        {
-          "game": "BONELAB"
-        }
-      ],
-      "platforms": [
-        {
-          "platformID": 76561199846350326,
-          "platform": "Steam"
-        }
-      ]
-    },
-    {
       "username": "gifting mann of gifting lannd",
       "reason": "Playing NSFW Material on Media Players",
       "games": [
@@ -446,6 +431,21 @@
       "platforms": [
         {
           "platformID": 76561199108580189,
+          "platform": "Steam"
+        }
+      ]
+    },
+    {
+      "username": "dwellerdev",
+      "reason": "Alting",
+      "games": [
+        {
+          "game": "BONELAB"
+        }
+      ],
+      "platforms": [
+        {
+          "platformID": 76561199866397454,
           "platform": "Steam"
         }
       ]
