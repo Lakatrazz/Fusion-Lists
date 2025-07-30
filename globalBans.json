@@ -46,21 +46,6 @@
       ]
     },
     {
-      "username": "Abibas_yt",
-      "reason": "Playing NSFW Material on Media Players",
-      "games": [
-        {
-          "game": "BONELAB"
-        }
-      ],
-      "platforms": [
-        {
-          "platformID": 76561199800568660,
-          "platform": "Steam"
-        }
-      ]
-    },
-    {
       "username": "TheChainReaper",
       "reason": "Playing NSFW Material on Media Players",
       "games": [
@@ -476,21 +461,6 @@
       "platforms": [
         {
           "platformID": 76561199882131627,
-          "platform": "Steam"
-        }
-      ]
-    },
-    {
-      "username": "SPIDER1PAC",
-      "reason": "Griefing Public Lobbies",
-      "games": [
-        {
-          "game": "BONELAB"
-        }
-      ],
-      "platforms": [
-        {
-          "platformID": 76561198954208280,
           "platform": "Steam"
         }
       ]
