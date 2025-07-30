@@ -346,6 +346,21 @@
       ]
     },
     {
+      "username": "Jimmery",
+      "reason": "Alting",
+      "games": [
+        {
+          "game": "BONELAB"
+        }
+      ],
+      "platforms": [
+        {
+          "platformID": 76561199881413840,
+          "platform": "Steam"
+        }
+      ]
+    },
+    {
       "username": "Pocky1131",
       "reason": "Malicious Client Use, ERP",
       "games": [
@@ -461,6 +476,21 @@
       "platforms": [
         {
           "platformID": 76561199882131627,
+          "platform": "Steam"
+        }
+      ]
+    },
+    {
+      "username": "SPIDER1PAC",
+      "reason": "Griefing Public Lobbies",
+      "games": [
+        {
+          "game": "BONELAB"
+        }
+      ],
+      "platforms": [
+        {
+          "platformID": 76561198954208280,
           "platform": "Steam"
         }
       ]
