@@ -241,21 +241,6 @@
       ]
     },
     {
-      "username": "Kingair348",
-      "reason": "Alting",
-      "games": [
-        {
-          "game": "BONELAB"
-        }
-      ],
-      "platforms": [
-        {
-          "platformID": 76561198017003900,
-          "platform": "Steam"
-        }
-      ]
-    },
-    {
       "username": "lolol",
       "reason": "Alting",
       "games": [
@@ -497,6 +482,7 @@
     }
   ]
 }
+
 
 
 
