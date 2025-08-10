@@ -479,9 +479,40 @@
           "platform": "Steam"
         }
       ]
+    },
+    {
+      "username": "KnowinglyHonor",
+      "reason": "Alting",
+      "games": [
+        {
+          "game": "BONELAB"
+        }
+      ],
+      "platforms": [
+        {
+          "platformID": 76561199883685761,
+          "platform": "Steam"
+        }
+      ]
+    },
+    {
+      "username": "TallDihLicker",
+      "reason": "Alting",
+      "games": [
+        {
+          "game": "BONELAB"
+        }
+      ],
+      "platforms": [
+        {
+          "platformID": 76561199876664103,
+          "platform": "Steam"
+        }
+      ]
     }
   ]
 }
+
 
 
 
