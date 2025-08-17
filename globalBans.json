@@ -31,21 +31,6 @@
       ]
     },
     {
-      "username": "NeoGeo",
-      "reason": "Creation of a Malicious Client",
-      "games": [
-        {
-          "game": "BONELAB"
-        }
-      ],
-      "platforms": [
-        {
-          "platformID": 76561198799267898,
-          "platform": "Steam"
-        }
-      ]
-    },
-    {
       "username": "user555",
       "reason": "Malicious Client Use, Alting",
       "games": [
@@ -542,6 +527,7 @@
     }
   ]
 }
+
 
 
 
