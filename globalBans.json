@@ -31,6 +31,21 @@
       ]
     },
     {
+      "username": "DamienDagoat",
+      "reason": "Alting",
+      "games": [
+        {
+          "game": "BONELAB"
+        }
+      ],
+      "platforms": [
+        {
+          "platformID": 76561199888730152,
+          "platform": "Steam"
+        }
+      ]
+    },
+    {
       "username": "K2Rocket",
       "reason": "Malicious Client Use, Alting",
       "games": [
@@ -346,6 +361,36 @@
       ]
     },
     {
+      "username": "kingajo2012",
+      "reason": "Alting",
+      "games": [
+        {
+          "game": "BONELAB"
+        }
+      ],
+      "platforms": [
+        {
+          "platformID": 76561199883756190,
+          "platform": "Steam"
+        }
+      ]
+    },
+    {
+      "username": "jays8311",
+      "reason": "Alting",
+      "games": [
+        {
+          "game": "BONELAB"
+        }
+      ],
+      "platforms": [
+        {
+          "platformID": 76561199887802861,
+          "platform": "Steam"
+        }
+      ]
+    },
+    {
       "username": "Jimmery",
       "reason": "Alting",
       "games": [
@@ -542,6 +587,7 @@
     }
   ]
 }
+
 
 
 
