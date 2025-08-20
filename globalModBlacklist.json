@@ -11,6 +11,14 @@
       ],
       "modID": 4457523,
       "nameID": "gun-gun"
+    },
+    {
+      "barcodes": [
+        "SLZ.BONELAB.Core.Spawnable.RigManagerBlank"
+      ],
+      "modID": -1,
+      "nameID": "bonelab"
     }
   ]
 }
+
