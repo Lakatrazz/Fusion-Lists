@@ -61,6 +61,21 @@
       ]
     },
     {
+      "username": "Dexter Morgan",
+      "reason": "Playing NSFW Material on Media Players",
+      "games": [
+        {
+          "game": "BONELAB"
+        }
+      ],
+      "platforms": [
+        {
+          "platformID": 76561198793671507,
+          "platform": "Steam"
+        }
+      ]
+    },
+    {
       "username": "DamienDagoat",
       "reason": "Alting",
       "games": [
