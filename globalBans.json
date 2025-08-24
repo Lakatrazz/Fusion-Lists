@@ -76,6 +76,21 @@
       ]
     },
     {
+      "username": "Threats of Violence",
+      "reason": "Malicious Client Use, Death Loops",
+      "games": [
+        {
+          "game": "BONELAB"
+        }
+      ],
+      "platforms": [
+        {
+          "platformID": 76561198424464836,
+          "platform": "Steam"
+        }
+      ]
+    },
+    {
       "username": "DamienDagoat",
       "reason": "Alting",
       "games": [
