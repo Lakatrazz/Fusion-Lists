@@ -631,6 +631,21 @@
       ]
     },
     {
+      "username": "spider1pac",
+      "reason": "Crashing Public Lobbies",
+      "games": [
+        {
+          "game": "BONELAB"
+        }
+      ],
+      "platforms": [
+        {
+          "platformID": 76561198954208280,
+          "platform": "Steam"
+        }
+      ]
+    },
+    {
       "username": "dwellerdev",
       "reason": "Alting",
       "games": [
@@ -686,6 +701,36 @@
       "platforms": [
         {
           "platformID": 76561199876664103,
+          "platform": "Steam"
+        }
+      ]
+    },
+    {
+      "username": "LightLover42",
+      "reason": "Alting",
+      "games": [
+        {
+          "game": "BONELAB"
+        }
+      ],
+      "platforms": [
+        {
+          "platformID": 76561198790449896,
+          "platform": "Steam"
+        }
+      ]
+    },
+    {
+      "username": "Ozzy",
+      "reason": "Alting",
+      "games": [
+        {
+          "game": "BONELAB"
+        }
+      ],
+      "platforms": [
+        {
+          "platformID": 76561199641660485,
           "platform": "Steam"
         }
       ]
