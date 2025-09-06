@@ -46,21 +46,6 @@
       ]
     },
     {
-      "username": "W!NT3R!",
-      "reason": "Playing NSFW Material on Media Players",
-      "games": [
-        {
-          "game": "BONELAB"
-        }
-      ],
-      "platforms": [
-        {
-          "platformID": 76561198443917504,
-          "platform": "Steam"
-        }
-      ]
-    },
-    {
       "username": "Yearly",
       "reason": "Playing NSFW Material on Media Players",
       "games": [
@@ -737,3 +722,4 @@
     }
   ]
 }
+
