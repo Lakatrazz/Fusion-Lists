@@ -91,6 +91,21 @@
       ]
     },
     {
+      "username": "Popper",
+      "reason": "Playing NSFW Material on Media Players",
+      "games": [
+        {
+          "game": "BONELAB"
+        }
+      ],
+      "platforms": [
+        {
+          "platformID": 76561199105996599,
+          "platform": "Steam"
+        }
+      ]
+    },
+    {
       "username": "jackie",
       "reason": "Playing NSFW Material on Media Players",
       "games": [
