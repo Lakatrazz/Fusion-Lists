@@ -16,6 +16,21 @@
       ]
     },
     {
+      "username": "harveytheawesomer",
+      "reason": "Hosting NSFW Public Servers",
+      "games": [
+        {
+          "game": "BONELAB"
+        }
+      ],
+      "platforms": [
+        {
+          "platformID": 76561199277569430,
+          "platform": "Steam"
+        }
+      ]
+    },
+    {
       "username": "ICEBREAK",
       "reason": "Alting",
       "games": [
