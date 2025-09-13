@@ -16,6 +16,21 @@
       ]
     },
     {
+      "username": "MovieGoblin",
+      "reason": "Crashing Public Lobbies",
+      "games": [
+        {
+          "game": "BONELAB"
+        }
+      ],
+      "platforms": [
+        {
+          "platformID": 76561198787315929,
+          "platform": "Steam"
+        }
+      ]
+    },
+    {
       "username": "harveytheawesomer",
       "reason": "Hosting NSFW Public Servers",
       "games": [
