@@ -91,6 +91,51 @@
       ]
     },
     {
+      "username": "solvingwolf8343",
+      "reason": "Alting",
+      "games": [
+        {
+          "game": "BONELAB"
+        }
+      ],
+      "platforms": [
+        {
+          "platformID": 76561199236679097,
+          "platform": "Steam"
+        }
+      ]
+    },
+    {
+      "username": "DinoOfNature",
+      "reason": "Alting",
+      "games": [
+        {
+          "game": "BONELAB"
+        }
+      ],
+      "platforms": [
+        {
+          "platformID": 76561198166607921,
+          "platform": "Steam"
+        }
+      ]
+    },
+    {
+      "username": "Kevin",
+      "reason": "Alting",
+      "games": [
+        {
+          "game": "BONELAB"
+        }
+      ],
+      "platforms": [
+        {
+          "platformID": 76561198788805363,
+          "platform": "Steam"
+        }
+      ]
+    },
+    {
       "username": "List",
       "reason": "Creation of a Malicious Client",
       "games": [
@@ -131,21 +176,6 @@
       "platforms": [
         {
           "platformID": 76561199105996599,
-          "platform": "Steam"
-        }
-      ]
-    },
-    {
-      "username": "jackie",
-      "reason": "Playing NSFW Material on Media Players",
-      "games": [
-        {
-          "game": "BONELAB"
-        }
-      ],
-      "platforms": [
-        {
-          "platformID": 76561199025360240,
           "platform": "Steam"
         }
       ]
