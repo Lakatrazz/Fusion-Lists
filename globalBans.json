@@ -92,7 +92,7 @@
     },
     {
       "username": "solvingwolf8343",
-      "reason": "Alting",
+      "reason": "Public NSFW Avatars, NeoGeo Affiliation",
       "games": [
         {
           "game": "BONELAB"
@@ -101,21 +101,6 @@
       "platforms": [
         {
           "platformID": 76561199236679097,
-          "platform": "Steam"
-        }
-      ]
-    },
-    {
-      "username": "DinoOfNature",
-      "reason": "Alting",
-      "games": [
-        {
-          "game": "BONELAB"
-        }
-      ],
-      "platforms": [
-        {
-          "platformID": 76561198166607921,
           "platform": "Steam"
         }
       ]
