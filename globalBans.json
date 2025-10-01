@@ -16,6 +16,36 @@
       ]
     },
     {
+      "username": "Barcode",
+      "reason": "Alting",
+      "games": [
+        {
+          "game": "BONELAB"
+        }
+      ],
+      "platforms": [
+        {
+          "platformID": 76561197972866537,
+          "platform": "Steam"
+        }
+      ]
+    },
+    {
+      "username": "Yeah Another One",
+      "reason": "Alting",
+      "games": [
+        {
+          "game": "BONELAB"
+        }
+      ],
+      "platforms": [
+        {
+          "platformID": 76561198783496776,
+          "platform": "Steam"
+        }
+      ]
+    },
+    {
       "username": "MovieGoblin",
       "reason": "Crashing Public Lobbies",
       "games": [
