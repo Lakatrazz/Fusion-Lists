@@ -46,6 +46,36 @@
       ]
     },
     {
+      "username": "Gordy",
+      "reason": "Alting",
+      "games": [
+        {
+          "game": "BONELAB"
+        }
+      ],
+      "platforms": [
+        {
+          "platformID": 76561198783496776,
+          "platform": "Steam"
+        }
+      ]
+    },
+    {
+      "username": "ThatOneSharkBoi",
+      "reason": "Malicious Client Use",
+      "games": [
+        {
+          "game": "BONELAB"
+        }
+      ],
+      "platforms": [
+        {
+          "platformID": 76561199560054012,
+          "platform": "Steam"
+        }
+      ]
+    },
+    {
       "username": "MovieGoblin",
       "reason": "Crashing Public Lobbies",
       "games": [
