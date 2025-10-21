@@ -151,6 +151,21 @@
       ]
     },
     {
+      "username": "James Reborn",
+      "reason": "Creation of a Malicious Client",
+      "games": [
+        {
+          "game": "BONELAB"
+        }
+      ],
+      "platforms": [
+        {
+          "platformID": 76561199094574941,
+          "platform": "Steam"
+        }
+      ]
+    },
+    {
       "username": "solvingwolf8343",
       "reason": "Public NSFW Avatars, NeoGeo Affiliation",
       "games": [
@@ -917,3 +932,4 @@
     }
   ]
 }
+
