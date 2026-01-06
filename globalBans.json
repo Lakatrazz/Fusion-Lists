@@ -16,6 +16,21 @@
       ]
     },
     {
+      "username": "Samuel Mendez",
+      "reason": "Playing NSFW Material On Video Players",
+      "games": [
+        {
+          "game": "BONELAB"
+        }
+      ],
+      "platforms": [
+        {
+          "platformID": 76561199868814284,
+          "platform": "Steam"
+        }
+      ]
+    },
+    {
       "username": "Barcode",
       "reason": "Alting",
       "games": [
