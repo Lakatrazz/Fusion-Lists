@@ -16,6 +16,21 @@
       ]
     },
     {
+      "username": "Abibas_yt",
+      "reason": "Creation of a Malicious Client",
+      "games": [
+        {
+          "game": "BONELAB"
+        }
+      ],
+      "platforms": [
+        {
+          "platformID": 76561199800568660,
+          "platform": "Steam"
+        }
+      ]
+    },
+    {
       "username": "Axel",
       "reason": "Alting",
       "games": [
