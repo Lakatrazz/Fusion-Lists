@@ -16,6 +16,21 @@
       ]
     },
     {
+      "username": "freerio4567",
+      "reason": "Playing NSFW Material on Media Players",
+      "games": [
+        {
+          "game": "BONELAB"
+        }
+      ],
+      "platforms": [
+        {
+          "platformID": 76561199812451639,
+          "platform": "Steam"
+        }
+      ]
+    },
+    {
       "username": "Abibas_yt",
       "reason": "Creation of a Malicious Client",
       "games": [
