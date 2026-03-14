@@ -1,1069 +1,1099 @@
 {
-  "bans": [
-    {
-      "username": "Daytrip",
-      "reason": "Creation of a Malicious Client",
-      "games": [
-        {
-          "game": "BONELAB"
-        }
-      ],
-      "platforms": [
-        {
-          "platformID": 76561198889496180,
-          "platform": "Steam"
-        }
-      ]
-    },
-    {
-      "username": "freerio4567",
-      "reason": "Playing NSFW Material on Media Players",
-      "games": [
-        {
-          "game": "BONELAB"
-        }
-      ],
-      "platforms": [
-        {
-          "platformID": 76561199812451639,
-          "platform": "Steam"
-        }
-      ]
-    },
-    {
-      "username": "stonethebone.1",
-      "reason": "Playing NSFW Material on Media Players",
-      "games": [
-        {
-          "game": "BONELAB"
-        }
-      ],
-      "platforms": [
-        {
-          "platformID": 76561199811861129,
-          "platform": "Steam"
-        }
-      ]
-    },
-    {
-      "username": "Abibas_yt",
-      "reason": "Creation of a Malicious Client",
-      "games": [
-        {
-          "game": "BONELAB"
-        }
-      ],
-      "platforms": [
-        {
-          "platformID": 76561199800568660,
-          "platform": "Steam"
-        }
-      ]
-    },
-    {
-      "username": "fuzzymanboob420",
-      "reason": "Crashing Public Lobbies",
-      "games": [
-        {
-          "game": "BONELAB"
-        }
-      ],
-      "platforms": [
-        {
-          "platformID": 76561198423012025,
-          "platform": "Steam"
-        }
-      ]
-    },
-    {
-      "username": "Reaper",
-      "reason": "Public Sexual Behavior",
-      "games": [
-        {
-          "game": "BONELAB"
-        }
-      ],
-      "platforms": [
-        {
-          "platformID": 76561199348385378,
-          "platform": "Steam"
-        }
-      ]
-    },
-    {
-      "username": "Yeenie",
-      "reason": "Crashing Public Lobbies",
-      "games": [
-        {
-          "game": "BONELAB"
-        }
-      ],
-      "platforms": [
-        {
-          "platformID": 76561198134119035,
-          "platform": "Steam"
-        }
-      ]
-    },
-    {
-      "username": "speeps",
-      "reason": "Usage of a Malicious Client",
-      "games": [
-        {
-          "game": "BONELAB"
-        }
-      ],
-      "platforms": [
-        {
-          "platformID": 76561199532311877,
-          "platform": "Steam"
-        }
-      ]
-    },
-    {
-      "username": "Axel",
-      "reason": "Alting",
-      "games": [
-        {
-          "game": "BONELAB"
-        }
-      ],
-      "platforms": [
-        {
-          "platformID": 76561198762738339,
-          "platform": "Steam"
-        }
-      ]
-    },
-    {
-      "username": "ThisVRMan",
-      "reason": "Alting",
-      "games": [
-        {
-          "game": "BONELAB"
-        }
-      ],
-      "platforms": [
-        {
-          "platformID": 76561198767607725,
-          "platform": "Steam"
-        }
-      ]
-    },
-    {
-      "username": "Samuel Mendez",
-      "reason": "Playing NSFW Material On Video Players",
-      "games": [
-        {
-          "game": "BONELAB"
-        }
-      ],
-      "platforms": [
-        {
-          "platformID": 76561199868814284,
-          "platform": "Steam"
-        }
-      ]
-    },
-    {
-      "username": "Barcode",
-      "reason": "Alting",
-      "games": [
-        {
-          "game": "BONELAB"
-        }
-      ],
-      "platforms": [
-        {
-          "platformID": 76561197972866537,
-          "platform": "Steam"
-        }
-      ]
-    },
-    {
-      "username": "Yeah Another One",
-      "reason": "Alting",
-      "games": [
-        {
-          "game": "BONELAB"
-        }
-      ],
-      "platforms": [
-        {
-          "platformID": 76561198783496776,
-          "platform": "Steam"
-        }
-      ]
-    },
-    {
-      "username": "Gordy",
-      "reason": "Alting",
-      "games": [
-        {
-          "game": "BONELAB"
-        }
-      ],
-      "platforms": [
-        {
-          "platformID": 76561198783496776,
-          "platform": "Steam"
-        }
-      ]
-    },
-    {
-      "username": "ThatOneSharkBoi",
-      "reason": "Malicious Client Use",
-      "games": [
-        {
-          "game": "BONELAB"
-        }
-      ],
-      "platforms": [
-        {
-          "platformID": 76561199560054012,
-          "platform": "Steam"
-        }
-      ]
-    },
-    {
-      "username": "MovieGoblin",
-      "reason": "Crashing Public Lobbies",
-      "games": [
-        {
-          "game": "BONELAB"
-        }
-      ],
-      "platforms": [
-        {
-          "platformID": 76561198787315929,
-          "platform": "Steam"
-        }
-      ]
-    },
-    {
-      "username": "harveytheawesomer",
-      "reason": "Hosting NSFW Public Servers",
-      "games": [
-        {
-          "game": "BONELAB"
-        }
-      ],
-      "platforms": [
-        {
-          "platformID": 76561199277569430,
-          "platform": "Steam"
-        }
-      ]
-    },
-    {
-      "username": "ICEBREAK",
-      "reason": "Alting",
-      "games": [
-        {
-          "game": "BONELAB"
-        }
-      ],
-      "platforms": [
-        {
-          "platformID": 76561199886399844,
-          "platform": "Steam"
-        }
-      ]
-    },
-    {
-      "username": "Miskokso",
-      "reason": "Alting",
-      "games": [
-        {
-          "game": "BONELAB"
-        }
-      ],
-      "platforms": [
-        {
-          "platformID": 76561199380636610,
-          "platform": "Steam"
-        }
-      ]
-    },
-    {
-      "username": "Neogeo",
-      "reason": "Creation of a Malicious Client",
-      "games": [
-        {
-          "game": "BONELAB"
-        }
-      ],
-      "platforms": [
-        {
-          "platformID": 76561199887801113,
-          "platform": "Steam"
-        }
-      ]
-    },
-    {
-      "username": "James Reborn",
-      "reason": "Creation of a Malicious Client",
-      "games": [
-        {
-          "game": "BONELAB"
-        }
-      ],
-      "platforms": [
-        {
-          "platformID": 76561199094574941,
-          "platform": "Steam"
-        }
-      ]
-    },
-    {
-      "username": "LIMBO",
-      "reason": "Alting",
-      "games": [
-        {
-          "game": "BONELAB"
-        }
-      ],
-      "platforms": [
-        {
-          "platformID": 76561198766650587,
-          "platform": "Steam"
-        }
-      ]
-    },
-    {
-      "username": "Kevin",
-      "reason": "Alting",
-      "games": [
-        {
-          "game": "BONELAB"
-        }
-      ],
-      "platforms": [
-        {
-          "platformID": 76561198788805363,
-          "platform": "Steam"
-        }
-      ]
-    },
-    {
-      "username": "List",
-      "reason": "Creation of a Malicious Client",
-      "games": [
-        {
-          "game": "BONELAB"
-        }
-      ],
-      "platforms": [
-        {
-          "platformID": 76561199390457400,
-          "platform": "Steam"
-        }
-      ]
-    },
-    {
-      "username": "ICEYYYY",
-      "reason": "Playing NSFW Material on Media Players",
-      "games": [
-        {
-          "game": "BONELAB"
-        }
-      ],
-      "platforms": [
-        {
-          "platformID": 76561199073423996,
-          "platform": "Steam"
-        }
-      ]
-    },
-    {
-      "username": "Popper",
-      "reason": "Playing NSFW Material on Media Players",
-      "games": [
-        {
-          "game": "BONELAB"
-        }
-      ],
-      "platforms": [
-        {
-          "platformID": 76561199105996599,
-          "platform": "Steam"
-        }
-      ]
-    },
-    {
-      "username": "annoying person 360",
-      "reason": "Playing NSFW Material on Media Players",
-      "games": [
-        {
-          "game": "BONELAB"
-        }
-      ],
-      "platforms": [
-        {
-          "platformID": 76561198342499893,
-          "platform": "Steam"
-        }
-      ]
-    },
-    {
-      "username": "Braxton",
-      "reason": "Alting",
-      "games": [
-        {
-          "game": "BONELAB"
-        }
-      ],
-      "platforms": [
-        {
-          "platformID": 76561198794712235,
-          "platform": "Steam"
-        }
-      ]
-    },
-    {
-      "username": "ToasterMilk",
-      "reason": "Alting",
-      "games": [
-        {
-          "game": "BONELAB"
-        }
-      ],
-      "platforms": [
-        {
-          "platformID": 76561199886226542,
-          "platform": "Steam"
-        }
-      ]
-    },
-    {
-      "username": "Brooklyn T. Guy",
-      "reason": "Playing NSFW Material on Media Players",
-      "games": [
-        {
-          "game": "BONELAB"
-        }
-      ],
-      "platforms": [
-        {
-          "platformID": 76561199880174806,
-          "platform": "Steam"
-        }
-      ]
-    },
-    {
-      "username": "Dexter Morgan",
-      "reason": "Playing NSFW Material on Media Players",
-      "games": [
-        {
-          "game": "BONELAB"
-        }
-      ],
-      "platforms": [
-        {
-          "platformID": 76561198793671507,
-          "platform": "Steam"
-        }
-      ]
-    },
-    {
-      "username": "Threats of Violence",
-      "reason": "Malicious Client Use, Death Loops",
-      "games": [
-        {
-          "game": "BONELAB"
-        }
-      ],
-      "platforms": [
-        {
-          "platformID": 76561198424464836,
-          "platform": "Steam"
-        }
-      ]
-    },
-    {
-      "username": "DamienDagoat",
-      "reason": "Alting",
-      "games": [
-        {
-          "game": "BONELAB"
-        }
-      ],
-      "platforms": [
-        {
-          "platformID": 76561199888730152,
-          "platform": "Steam"
-        }
-      ]
-    },
-    {
-      "username": "K2Rocket",
-      "reason": "Malicious Client Use, Alting",
-      "games": [
-        {
-          "game": "BONELAB"
-        }
-      ],
-      "platforms": [
-        {
-          "platformID": 76561198235881106,
-          "platform": "Steam"
-        }
-      ]
-    },
-    {
-      "username": "user555",
-      "reason": "Malicious Client Use, Alting",
-      "games": [
-        {
-          "game": "BONELAB"
-        }
-      ],
-      "platforms": [
-        {
-          "platformID": 76561199873854390,
-          "platform": "Steam"
-        }
-      ]
-    },
-    {
-      "username": "TheChainReaper",
-      "reason": "Playing NSFW Material on Media Players",
-      "games": [
-        {
-          "game": "BONELAB"
-        }
-      ],
-      "platforms": [
-        {
-          "platformID": 76561199199917329,
-          "platform": "Steam"
-        }
-      ]
-    },
-    {
-      "username": "allan.stewy",
-      "reason": "Playing NSFW Material on Media Players",
-      "games": [
-        {
-          "game": "BONELAB"
-        }
-      ],
-      "platforms": [
-        {
-          "platformID": 76561198068010082,
-          "platform": "Steam"
-        }
-      ]
-    },
-    {
-      "username": "NV615",
-      "reason": "Playing NSFW Material on Media Players",
-      "games": [
-        {
-          "game": "BONELAB"
-        }
-      ],
-      "platforms": [
-        {
-          "platformID": 76561199827738619,
-          "platform": "Steam"
-        }
-      ]
-    },
-    {
-      "username": "number_1_tim_allen_fan",
-      "reason": "Playing NSFW Material on Media Players",
-      "games": [
-        {
-          "game": "BONELAB"
-        }
-      ],
-      "platforms": [
-        {
-          "platformID": 76561199875320673,
-          "platform": "Steam"
-        }
-      ]
-    },
-    {
-      "username": "DEALING_PUPPET42",
-      "reason": "Playing NSFW Material on Media Players",
-      "games": [
-        {
-          "game": "BONELAB"
-        }
-      ],
-      "platforms": [
-        {
-          "platformID": 76561198965184503,
-          "platform": "Steam"
-        }
-      ]
-    },
-    {
-      "username": "gifting mann of gifting lannd",
-      "reason": "Playing NSFW Material on Media Players",
-      "games": [
-        {
-          "game": "BONELAB"
-        }
-      ],
-      "platforms": [
-        {
-          "platformID": 76561198245315262,
-          "platform": "Steam"
-        }
-      ]
-    },
-    {
-      "username": "misanex",
-      "reason": "Malicious Client Use",
-      "games": [
-        {
-          "game": "BONELAB"
-        }
-      ],
-      "platforms": [
-        {
-          "platformID": 76561199252525213,
-          "platform": "Steam"
-        }
-      ]
-    },
-    {
-      "username": "AdrianStillPlays",
-      "reason": "Malicious Client Use, ERP, Alting",
-      "games": [
-        {
-          "game": "BONELAB"
-        }
-      ],
-      "platforms": [
-        {
-          "platformID": 76561199380636610,
-          "platform": "Steam"
-        }
-      ]
-    },
-    {
-      "username": "BlackLife",
-      "reason": "Alting",
-      "games": [
-        {
-          "game": "BONELAB"
-        }
-      ],
-      "platforms": [
-        {
-          "platformID": 76561199680801107,
-          "platform": "Steam"
-        }
-      ]
-    },
-    {
-      "username": "W_zzy",
-      "reason": "Alting",
-      "games": [
-        {
-          "game": "BONELAB"
-        }
-      ],
-      "platforms": [
-        {
-          "platformID": 76561199878200933,
-          "platform": "Steam"
-        }
-      ]
-    },
-    {
-      "username": "GlorpinBebBe",
-      "reason": "Malicious Client Use",
-      "games": [
-        {
-          "game": "BONELAB"
-        }
-      ],
-      "platforms": [
-        {
-          "platformID": 76561199862996099,
-          "platform": "Steam"
-        }
-      ]
-    },
-    {
-      "username": "SurfinBird",
-      "reason": "Alting",
-      "games": [
-        {
-          "game": "BONELAB"
-        }
-      ],
-      "platforms": [
-        {
-          "platformID": 76561199879275173,
-          "platform": "Steam"
-        }
-      ]
-    },
-    {
-      "username": "blueshift255",
-      "reason": "Alting",
-      "games": [
-        {
-          "game": "BONELAB"
-        }
-      ],
-      "platforms": [
-        {
-          "platformID": 76561199875772967,
-          "platform": "Steam"
-        }
-      ]
-    },
-    {
-      "username": "lolol",
-      "reason": "Alting",
-      "games": [
-        {
-          "game": "BONELAB"
-        }
-      ],
-      "platforms": [
-        {
-          "platformID": 76561199668098186,
-          "platform": "Steam"
-        }
-      ]
-    },
-    {
-      "username": "Redshift266",
-      "reason": "Alting",
-      "games": [
-        {
-          "game": "BONELAB"
-        }
-      ],
-      "platforms": [
-        {
-          "platformID": 76561199876203003,
-          "platform": "Steam"
-        }
-      ]
-    },
-    {
-      "username": "GLaDOS",
-      "reason": "Alting",
-      "games": [
-        {
-          "game": "BONELAB"
-        }
-      ],
-      "platforms": [
-        {
-          "platformID": 76561199877028872,
-          "platform": "Steam"
-        }
-      ]
-    },
-    {
-      "username": "ballsontoast222",
-      "reason": "Alting",
-      "games": [
-        {
-          "game": "BONELAB"
-        }
-      ],
-      "platforms": [
-        {
-          "platformID": 76561199879535062,
-          "platform": "Steam"
-        }
-      ]
-    },
-    {
-      "username": "jaying5",
-      "reason": "Alting",
-      "games": [
-        {
-          "game": "BONELAB"
-        }
-      ],
-      "platforms": [
-        {
-          "platformID": 76561199880306504,
-          "platform": "Steam"
-        }
-      ]
-    },
-    {
-      "username": "kingajo2012",
-      "reason": "Alting",
-      "games": [
-        {
-          "game": "BONELAB"
-        }
-      ],
-      "platforms": [
-        {
-          "platformID": 76561199879212129,
-          "platform": "Steam"
-        }
-      ]
-    },
-    {
-      "username": "kingajo2012",
-      "reason": "Alting",
-      "games": [
-        {
-          "game": "BONELAB"
-        }
-      ],
-      "platforms": [
-        {
-          "platformID": 76561199883756190,
-          "platform": "Steam"
-        }
-      ]
-    },
-    {
-      "username": "jays8311",
-      "reason": "Alting",
-      "games": [
-        {
-          "game": "BONELAB"
-        }
-      ],
-      "platforms": [
-        {
-          "platformID": 76561199887802861,
-          "platform": "Steam"
-        }
-      ]
-    },
-    {
-      "username": "Jimmery",
-      "reason": "Alting",
-      "games": [
-        {
-          "game": "BONELAB"
-        }
-      ],
-      "platforms": [
-        {
-          "platformID": 76561199881413840,
-          "platform": "Steam"
-        }
-      ]
-    },
-    {
-      "username": "Pocky1131",
-      "reason": "Malicious Client Use, ERP",
-      "games": [
-        {
-          "game": "BONELAB"
-        }
-      ],
-      "platforms": [
-        {
-          "platformID": 76561198864567577,
-          "platform": "Steam"
-        }
-      ]
-    },
-    {
-      "username": "Inflation Furries",
-      "reason": "Malicious Client Use, Despawning Players",
-      "games": [
-        {
-          "game": "BONELAB"
-        }
-      ],
-      "platforms": [
-        {
-          "platformID": 76561198974319069,
-          "platform": "Steam"
-        }
-      ]
-    },
-    {
-      "username": "boowomp",
-      "reason": "Malicious Client Use, Despawning Players",
-      "games": [
-        {
-          "game": "BONELAB"
-        }
-      ],
-      "platforms": [
-        {
-          "platformID": 76561198857850545,
-          "platform": "Steam"
-        }
-      ]
-    },
-    {
-      "username": "what am i doing",
-      "reason": "Public Sexual Behaviour",
-      "games": [
-        {
-          "game": "BONELAB"
-        }
-      ],
-      "platforms": [
-        {
-          "platformID": 76561199130192358,
-          "platform": "Steam"
-        }
-      ]
-    },
-    {
-      "username": "POP12",
-      "reason": "Public Sexual Behaviour",
-      "games": [
-        {
-          "game": "BONELAB"
-        }
-      ],
-      "platforms": [
-        {
-          "platformID": 76561199561027016,
-          "platform": "Steam"
-        }
-      ]
-    },
-    {
-      "username": "Farming_Mechanic",
-      "reason": "Public Sexual Behaviour",
-      "games": [
-        {
-          "game": "BONELAB"
-        }
-      ],
-      "platforms": [
-        {
-          "platformID": 76561199571825531,
-          "platform": "Steam"
-        }
-      ]
-    },
-    {
-      "username": "stelladev",
-      "reason": "Griefing Public Lobbies",
-      "games": [
-        {
-          "game": "BONELAB"
-        }
-      ],
-      "platforms": [
-        {
-          "platformID": 76561199108580189,
-          "platform": "Steam"
-        }
-      ]
-    },
-    {
-      "username": "spider1pac",
-      "reason": "Crashing Public Lobbies",
-      "games": [
-        {
-          "game": "BONELAB"
-        }
-      ],
-      "platforms": [
-        {
-          "platformID": 76561198954208280,
-          "platform": "Steam"
-        }
-      ]
-    },
-    {
-      "username": "dwellerdev",
-      "reason": "Alting",
-      "games": [
-        {
-          "game": "BONELAB"
-        }
-      ],
-      "platforms": [
-        {
-          "platformID": 76561199866397454,
-          "platform": "Steam"
-        }
-      ]
-    },
-    {
-      "username": "gaminggoonervr",
-      "reason": "Alting",
-      "games": [
-        {
-          "game": "BONELAB"
-        }
-      ],
-      "platforms": [
-        {
-          "platformID": 76561199882131627,
-          "platform": "Steam"
-        }
-      ]
-    },
-    {
-      "username": "KnowinglyHonor",
-      "reason": "Alting",
-      "games": [
-        {
-          "game": "BONELAB"
-        }
-      ],
-      "platforms": [
-        {
-          "platformID": 76561199883685761,
-          "platform": "Steam"
-        }
-      ]
-    },
-    {
-      "username": "TallDihLicker",
-      "reason": "Alting",
-      "games": [
-        {
-          "game": "BONELAB"
-        }
-      ],
-      "platforms": [
-        {
-          "platformID": 76561199876664103,
-          "platform": "Steam"
-        }
-      ]
-    },
-    {
-      "username": "LightLover42",
-      "reason": "Alting",
-      "games": [
-        {
-          "game": "BONELAB"
-        }
-      ],
-      "platforms": [
-        {
-          "platformID": 76561198790449896,
-          "platform": "Steam"
-        }
-      ]
-    },
-    {
-      "username": "Ozzy",
-      "reason": "Alting",
-      "games": [
-        {
-          "game": "BONELAB"
-        }
-      ],
-      "platforms": [
-        {
-          "platformID": 76561199641660485,
-          "platform": "Steam"
-        }
-      ]
-    }
-  ]
+    "bans": [
+        {
+            "username": "Daytrip",
+            "reason": "Malicious Client Use",
+            "games": [
+                {
+                    "game": "BONELAB"
+                }
+            ],
+            "platforms": [
+                {
+                    "platformID": 76561198889496180,
+                    "platform": "Steam"
+                }
+            ]
+        },
+        {
+            "username": "freerio4567",
+            "reason": "NSFW Media",
+            "games": [
+                {
+                    "game": "BONELAB"
+                }
+            ],
+            "platforms": [
+                {
+                    "platformID": 76561199812451639,
+                    "platform": "Steam"
+                }
+            ]
+        },
+        {
+            "username": "stonethebone.1",
+            "reason": "NSFW Media",
+            "games": [
+                {
+                    "game": "BONELAB"
+                }
+            ],
+            "platforms": [
+                {
+                    "platformID": 76561199811861129,
+                    "platform": "Steam"
+                }
+            ]
+        },
+        {
+            "username": "Abibas_yt",
+            "reason": "Malicious Client Use",
+            "games": [
+                {
+                    "game": "BONELAB"
+                }
+            ],
+            "platforms": [
+                {
+                    "platformID": 76561199800568660,
+                    "platform": "Steam"
+                }
+            ]
+        },
+        {
+            "username": "fuzzymanboob420",
+            "reason": "Crashing Public Lobbies",
+            "games": [
+                {
+                    "game": "BONELAB"
+                }
+            ],
+            "platforms": [
+                {
+                    "platformID": 76561198423012025,
+                    "platform": "Steam"
+                }
+            ]
+        },
+        {
+            "username": "Reaper",
+            "reason": "NSFW Behavior",
+            "games": [
+                {
+                    "game": "BONELAB"
+                }
+            ],
+            "platforms": [
+                {
+                    "platformID": 76561199348385378,
+                    "platform": "Steam"
+                }
+            ]
+        },
+        {
+            "username": "Yeenie",
+            "reason": "Crashing Public Lobbies",
+            "games": [
+                {
+                    "game": "BONELAB"
+                }
+            ],
+            "platforms": [
+                {
+                    "platformID": 76561198134119035,
+                    "platform": "Steam"
+                }
+            ]
+        },
+        {
+            "username": "speeps",
+            "reason": "Malicious Client Use",
+            "games": [
+                {
+                    "game": "BONELAB"
+                }
+            ],
+            "platforms": [
+                {
+                    "platformID": 76561199532311877,
+                    "platform": "Steam"
+                }
+            ]
+        },
+        {
+            "username": "Axel",
+            "reason": "Alting",
+            "games": [
+                {
+                    "game": "BONELAB"
+                }
+            ],
+            "platforms": [
+                {
+                    "platformID": 76561198762738339,
+                    "platform": "Steam"
+                }
+            ]
+        },
+        {
+            "username": "ThisVRMan",
+            "reason": "Alting",
+            "games": [
+                {
+                    "game": "BONELAB"
+                }
+            ],
+            "platforms": [
+                {
+                    "platformID": 76561198767607725,
+                    "platform": "Steam"
+                }
+            ]
+        },
+        {
+            "username": "Samuel Mendez",
+            "reason": "NSFW Media",
+            "games": [
+                {
+                    "game": "BONELAB"
+                }
+            ],
+            "platforms": [
+                {
+                    "platformID": 76561199868814284,
+                    "platform": "Steam"
+                }
+            ]
+        },
+        {
+            "username": "Barcode",
+            "reason": "Alting",
+            "games": [
+                {
+                    "game": "BONELAB"
+                }
+            ],
+            "platforms": [
+                {
+                    "platformID": 76561197972866537,
+                    "platform": "Steam"
+                }
+            ]
+        },
+        {
+            "username": "Yeah Another One",
+            "reason": "Alting",
+            "games": [
+                {
+                    "game": "BONELAB"
+                }
+            ],
+            "platforms": [
+                {
+                    "platformID": 76561198783496776,
+                    "platform": "Steam"
+                }
+            ]
+        },
+        {
+            "username": "Gordy",
+            "reason": "Alting",
+            "games": [
+                {
+                    "game": "BONELAB"
+                }
+            ],
+            "platforms": [
+                {
+                    "platformID": 76561198783496776,
+                    "platform": "Steam"
+                }
+            ]
+        },
+        {
+            "username": "ThatOneSharkBoi",
+            "reason": "Malicious Client Use",
+            "games": [
+                {
+                    "game": "BONELAB"
+                }
+            ],
+            "platforms": [
+                {
+                    "platformID": 76561199560054012,
+                    "platform": "Steam"
+                }
+            ]
+        },
+        {
+            "username": "MovieGoblin",
+            "reason": "Crashing Public Lobbies",
+            "games": [
+                {
+                    "game": "BONELAB"
+                }
+            ],
+            "platforms": [
+                {
+                    "platformID": 76561198787315929,
+                    "platform": "Steam"
+                }
+            ]
+        },
+        {
+            "username": "harveytheawesomer",
+            "reason": "NSFW Behavior",
+            "games": [
+                {
+                    "game": "BONELAB"
+                }
+            ],
+            "platforms": [
+                {
+                    "platformID": 76561199277569430,
+                    "platform": "Steam"
+                }
+            ]
+        },
+        {
+            "username": "ICEBREAK",
+            "reason": "Alting",
+            "games": [
+                {
+                    "game": "BONELAB"
+                }
+            ],
+            "platforms": [
+                {
+                    "platformID": 76561199886399844,
+                    "platform": "Steam"
+                }
+            ]
+        },
+        {
+            "username": "Miskokso",
+            "reason": "Alting",
+            "games": [
+                {
+                    "game": "BONELAB"
+                }
+            ],
+            "platforms": [
+                {
+                    "platformID": 76561199380636610,
+                    "platform": "Steam"
+                }
+            ]
+        },
+        {
+            "username": "Neogeo",
+            "reason": "Malicious Client Use",
+            "games": [
+                {
+                    "game": "BONELAB"
+                }
+            ],
+            "platforms": [
+                {
+                    "platformID": 76561199887801113,
+                    "platform": "Steam"
+                }
+            ]
+        },
+        {
+            "username": "James Reborn",
+            "reason": "Malicious Client Use",
+            "games": [
+                {
+                    "game": "BONELAB"
+                }
+            ],
+            "platforms": [
+                {
+                    "platformID": 76561199094574941,
+                    "platform": "Steam"
+                }
+            ]
+        },
+        {
+            "username": "LIMBO",
+            "reason": "Alting",
+            "games": [
+                {
+                    "game": "BONELAB"
+                }
+            ],
+            "platforms": [
+                {
+                    "platformID": 76561198766650587,
+                    "platform": "Steam"
+                }
+            ]
+        },
+        {
+            "username": "Kevin",
+            "reason": "Alting",
+            "games": [
+                {
+                    "game": "BONELAB"
+                }
+            ],
+            "platforms": [
+                {
+                    "platformID": 76561198788805363,
+                    "platform": "Steam"
+                }
+            ]
+        },
+        {
+            "username": "List",
+            "reason": "Malicious Client Use",
+            "games": [
+                {
+                    "game": "BONELAB"
+                }
+            ],
+            "platforms": [
+                {
+                    "platformID": 76561199390457400,
+                    "platform": "Steam"
+                }
+            ]
+        },
+        {
+            "username": "ICEYYYY",
+            "reason": "NSFW Media",
+            "games": [
+                {
+                    "game": "BONELAB"
+                }
+            ],
+            "platforms": [
+                {
+                    "platformID": 76561199073423996,
+                    "platform": "Steam"
+                }
+            ]
+        },
+        {
+            "username": "Popper",
+            "reason": "NSFW Media",
+            "games": [
+                {
+                    "game": "BONELAB"
+                }
+            ],
+            "platforms": [
+                {
+                    "platformID": 76561199105996599,
+                    "platform": "Steam"
+                }
+            ]
+        },
+        {
+            "username": "annoying person 360",
+            "reason": "NSFW Media",
+            "games": [
+                {
+                    "game": "BONELAB"
+                }
+            ],
+            "platforms": [
+                {
+                    "platformID": 76561198342499893,
+                    "platform": "Steam"
+                }
+            ]
+        },
+        {
+            "username": "Braxton",
+            "reason": "Alting",
+            "games": [
+                {
+                    "game": "BONELAB"
+                }
+            ],
+            "platforms": [
+                {
+                    "platformID": 76561198794712235,
+                    "platform": "Steam"
+                }
+            ]
+        },
+        {
+            "username": "ToasterMilk",
+            "reason": "Alting",
+            "games": [
+                {
+                    "game": "BONELAB"
+                }
+            ],
+            "platforms": [
+                {
+                    "platformID": 76561199886226542,
+                    "platform": "Steam"
+                }
+            ]
+        },
+        {
+            "username": "Brooklyn T. Guy",
+            "reason": "NSFW Media",
+            "games": [
+                {
+                    "game": "BONELAB"
+                }
+            ],
+            "platforms": [
+                {
+                    "platformID": 76561199880174806,
+                    "platform": "Steam"
+                }
+            ]
+        },
+        {
+            "username": "Dexter Morgan",
+            "reason": "NSFW Media",
+            "games": [
+                {
+                    "game": "BONELAB"
+                }
+            ],
+            "platforms": [
+                {
+                    "platformID": 76561198793671507,
+                    "platform": "Steam"
+                }
+            ]
+        },
+        {
+            "username": "Threats of Violence",
+            "reason": "Malicious Client Use, Death Loops",
+            "games": [
+                {
+                    "game": "BONELAB"
+                }
+            ],
+            "platforms": [
+                {
+                    "platformID": 76561198424464836,
+                    "platform": "Steam"
+                }
+            ]
+        },
+        {
+            "username": "DamienDagoat",
+            "reason": "Alting",
+            "games": [
+                {
+                    "game": "BONELAB"
+                }
+            ],
+            "platforms": [
+                {
+                    "platformID": 76561199888730152,
+                    "platform": "Steam"
+                }
+            ]
+        },
+        {
+            "username": "K2Rocket",
+            "reason": "Malicious Client Use, Alting",
+            "games": [
+                {
+                    "game": "BONELAB"
+                }
+            ],
+            "platforms": [
+                {
+                    "platformID": 76561198235881106,
+                    "platform": "Steam"
+                }
+            ]
+        },
+        {
+            "username": "user555",
+            "reason": "Malicious Client Use, Alting",
+            "games": [
+                {
+                    "game": "BONELAB"
+                }
+            ],
+            "platforms": [
+                {
+                    "platformID": 76561199873854390,
+                    "platform": "Steam"
+                }
+            ]
+        },
+        {
+            "username": "TheChainReaper",
+            "reason": "NSFW Media",
+            "games": [
+                {
+                    "game": "BONELAB"
+                }
+            ],
+            "platforms": [
+                {
+                    "platformID": 76561199199917329,
+                    "platform": "Steam"
+                }
+            ]
+        },
+        {
+            "username": "allan.stewy",
+            "reason": "NSFW Media",
+            "games": [
+                {
+                    "game": "BONELAB"
+                }
+            ],
+            "platforms": [
+                {
+                    "platformID": 76561198068010082,
+                    "platform": "Steam"
+                }
+            ]
+        },
+        {
+            "username": "NV615",
+            "reason": "NSFW Media",
+            "games": [
+                {
+                    "game": "BONELAB"
+                }
+            ],
+            "platforms": [
+                {
+                    "platformID": 76561199827738619,
+                    "platform": "Steam"
+                }
+            ]
+        },
+        {
+            "username": "number_1_tim_allen_fan",
+            "reason": "NSFW Media",
+            "games": [
+                {
+                    "game": "BONELAB"
+                }
+            ],
+            "platforms": [
+                {
+                    "platformID": 76561199875320673,
+                    "platform": "Steam"
+                }
+            ]
+        },
+        {
+            "username": "DEALING_PUPPET42",
+            "reason": "NSFW Media",
+            "games": [
+                {
+                    "game": "BONELAB"
+                }
+            ],
+            "platforms": [
+                {
+                    "platformID": 76561198965184503,
+                    "platform": "Steam"
+                }
+            ]
+        },
+        {
+            "username": "gifting mann of gifting lannd",
+            "reason": "NSFW Media",
+            "games": [
+                {
+                    "game": "BONELAB"
+                }
+            ],
+            "platforms": [
+                {
+                    "platformID": 76561198245315262,
+                    "platform": "Steam"
+                }
+            ]
+        },
+        {
+            "username": "misanex",
+            "reason": "Malicious Client Use",
+            "games": [
+                {
+                    "game": "BONELAB"
+                }
+            ],
+            "platforms": [
+                {
+                    "platformID": 76561199252525213,
+                    "platform": "Steam"
+                }
+            ]
+        },
+        {
+            "username": "AdrianStillPlays",
+            "reason": "Malicious Client Use, ERP, Alting",
+            "games": [
+                {
+                    "game": "BONELAB"
+                }
+            ],
+            "platforms": [
+                {
+                    "platformID": 76561199380636610,
+                    "platform": "Steam"
+                }
+            ]
+        },
+        {
+            "username": "BlackLife",
+            "reason": "Alting",
+            "games": [
+                {
+                    "game": "BONELAB"
+                }
+            ],
+            "platforms": [
+                {
+                    "platformID": 76561199680801107,
+                    "platform": "Steam"
+                }
+            ]
+        },
+        {
+            "username": "W_zzy",
+            "reason": "Alting",
+            "games": [
+                {
+                    "game": "BONELAB"
+                }
+            ],
+            "platforms": [
+                {
+                    "platformID": 76561199878200933,
+                    "platform": "Steam"
+                }
+            ]
+        },
+        {
+            "username": "GlorpinBebBe",
+            "reason": "Malicious Client Use",
+            "games": [
+                {
+                    "game": "BONELAB"
+                }
+            ],
+            "platforms": [
+                {
+                    "platformID": 76561199862996099,
+                    "platform": "Steam"
+                }
+            ]
+        },
+        {
+            "username": "SurfinBird",
+            "reason": "Alting",
+            "games": [
+                {
+                    "game": "BONELAB"
+                }
+            ],
+            "platforms": [
+                {
+                    "platformID": 76561199879275173,
+                    "platform": "Steam"
+                }
+            ]
+        },
+        {
+            "username": "blueshift255",
+            "reason": "Alting",
+            "games": [
+                {
+                    "game": "BONELAB"
+                }
+            ],
+            "platforms": [
+                {
+                    "platformID": 76561199875772967,
+                    "platform": "Steam"
+                }
+            ]
+        },
+        {
+            "username": "lolol",
+            "reason": "Alting",
+            "games": [
+                {
+                    "game": "BONELAB"
+                }
+            ],
+            "platforms": [
+                {
+                    "platformID": 76561199668098186,
+                    "platform": "Steam"
+                }
+            ]
+        },
+        {
+            "username": "Redshift266",
+            "reason": "Alting",
+            "games": [
+                {
+                    "game": "BONELAB"
+                }
+            ],
+            "platforms": [
+                {
+                    "platformID": 76561199876203003,
+                    "platform": "Steam"
+                }
+            ]
+        },
+        {
+            "username": "GLaDOS",
+            "reason": "Alting",
+            "games": [
+                {
+                    "game": "BONELAB"
+                }
+            ],
+            "platforms": [
+                {
+                    "platformID": 76561199877028872,
+                    "platform": "Steam"
+                }
+            ]
+        },
+        {
+            "username": "ballsontoast222",
+            "reason": "Alting",
+            "games": [
+                {
+                    "game": "BONELAB"
+                }
+            ],
+            "platforms": [
+                {
+                    "platformID": 76561199879535062,
+                    "platform": "Steam"
+                }
+            ]
+        },
+        {
+            "username": "jaying5",
+            "reason": "Alting",
+            "games": [
+                {
+                    "game": "BONELAB"
+                }
+            ],
+            "platforms": [
+                {
+                    "platformID": 76561199880306504,
+                    "platform": "Steam"
+                }
+            ]
+        },
+        {
+            "username": "kingajo2012",
+            "reason": "Alting",
+            "games": [
+                {
+                    "game": "BONELAB"
+                }
+            ],
+            "platforms": [
+                {
+                    "platformID": 76561199879212129,
+                    "platform": "Steam"
+                }
+            ]
+        },
+        {
+            "username": "kingajo2012",
+            "reason": "Alting",
+            "games": [
+                {
+                    "game": "BONELAB"
+                }
+            ],
+            "platforms": [
+                {
+                    "platformID": 76561199883756190,
+                    "platform": "Steam"
+                }
+            ]
+        },
+        {
+            "username": "jays8311",
+            "reason": "Alting",
+            "games": [
+                {
+                    "game": "BONELAB"
+                }
+            ],
+            "platforms": [
+                {
+                    "platformID": 76561199887802861,
+                    "platform": "Steam"
+                }
+            ]
+        },
+        {
+            "username": "Jimmery",
+            "reason": "Alting",
+            "games": [
+                {
+                    "game": "BONELAB"
+                }
+            ],
+            "platforms": [
+                {
+                    "platformID": 76561199881413840,
+                    "platform": "Steam"
+                }
+            ]
+        },
+        {
+            "username": "Pocky1131",
+            "reason": "Malicious Client Use, ERP",
+            "games": [
+                {
+                    "game": "BONELAB"
+                }
+            ],
+            "platforms": [
+                {
+                    "platformID": 76561198864567577,
+                    "platform": "Steam"
+                }
+            ]
+        },
+        {
+            "username": "Inflation Furries",
+            "reason": "Malicious Client Use, Despawning Players",
+            "games": [
+                {
+                    "game": "BONELAB"
+                }
+            ],
+            "platforms": [
+                {
+                    "platformID": 76561198974319069,
+                    "platform": "Steam"
+                }
+            ]
+        },
+        {
+            "username": "boowomp",
+            "reason": "Malicious Client Use, Despawning Players",
+            "games": [
+                {
+                    "game": "BONELAB"
+                }
+            ],
+            "platforms": [
+                {
+                    "platformID": 76561198857850545,
+                    "platform": "Steam"
+                }
+            ]
+        },
+        {
+            "username": "what am i doing",
+            "reason": "NSFW Behavior",
+            "games": [
+                {
+                    "game": "BONELAB"
+                }
+            ],
+            "platforms": [
+                {
+                    "platformID": 76561199130192358,
+                    "platform": "Steam"
+                }
+            ]
+        },
+        {
+            "username": "POP12",
+            "reason": "NSFW Behavior",
+            "games": [
+                {
+                    "game": "BONELAB"
+                }
+            ],
+            "platforms": [
+                {
+                    "platformID": 76561199561027016,
+                    "platform": "Steam"
+                }
+            ]
+        },
+        {
+            "username": "Farming_Mechanic",
+            "reason": "NSFW Behavior",
+            "games": [
+                {
+                    "game": "BONELAB"
+                }
+            ],
+            "platforms": [
+                {
+                    "platformID": 76561199571825531,
+                    "platform": "Steam"
+                }
+            ]
+        },
+        {
+            "username": "stelladev",
+            "reason": "Crashing Public Lobbies",
+            "games": [
+                {
+                    "game": "BONELAB"
+                }
+            ],
+            "platforms": [
+                {
+                    "platformID": 76561199108580189,
+                    "platform": "Steam"
+                }
+            ]
+        },
+        {
+            "username": "spider1pac",
+            "reason": "Crashing Public Lobbies",
+            "games": [
+                {
+                    "game": "BONELAB"
+                }
+            ],
+            "platforms": [
+                {
+                    "platformID": 76561198954208280,
+                    "platform": "Steam"
+                }
+            ]
+        },
+        {
+            "username": "dwellerdev",
+            "reason": "Alting",
+            "games": [
+                {
+                    "game": "BONELAB"
+                }
+            ],
+            "platforms": [
+                {
+                    "platformID": 76561199866397454,
+                    "platform": "Steam"
+                }
+            ]
+        },
+        {
+            "username": "gaminggoonervr",
+            "reason": "Alting",
+            "games": [
+                {
+                    "game": "BONELAB"
+                }
+            ],
+            "platforms": [
+                {
+                    "platformID": 76561199882131627,
+                    "platform": "Steam"
+                }
+            ]
+        },
+        {
+            "username": "KnowinglyHonor",
+            "reason": "Alting",
+            "games": [
+                {
+                    "game": "BONELAB"
+                }
+            ],
+            "platforms": [
+                {
+                    "platformID": 76561199883685761,
+                    "platform": "Steam"
+                }
+            ]
+        },
+        {
+            "username": "TallDihLicker",
+            "reason": "Alting",
+            "games": [
+                {
+                    "game": "BONELAB"
+                }
+            ],
+            "platforms": [
+                {
+                    "platformID": 76561199876664103,
+                    "platform": "Steam"
+                }
+            ]
+        },
+        {
+            "username": "LightLover42",
+            "reason": "Alting",
+            "games": [
+                {
+                    "game": "BONELAB"
+                }
+            ],
+            "platforms": [
+                {
+                    "platformID": 76561198790449896,
+                    "platform": "Steam"
+                }
+            ]
+        },
+        {
+            "username": "Ozzy",
+            "reason": "Alting",
+            "games": [
+                {
+                    "game": "BONELAB"
+                }
+            ],
+            "platforms": [
+                {
+                    "platformID": 76561199641660485,
+                    "platform": "Steam"
+                }
+            ]
+        },
+        {
+            "username": "pronoob",
+            "reason": "Malicious Client Use",
+            "games": [
+                {
+                    "game": "BONELAB"
+                }
+            ],
+            "platforms": [
+                {
+                    "platformID": 76561199200467652,
+                    "platform": "Steam"
+                }
+            ]
+        },
+        {
+            "username": "huff123450",
+            "reason": "NSFW Media",
+            "games": [
+                {
+                    "game": "BONELAB"
+                }
+            ],
+            "platforms": [
+                {
+                    "platformID": 76561198205216207,
+                    "platform": "Steam"
+                }
+            ]
+        }
+    ]
 }
