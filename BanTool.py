@@ -151,7 +151,8 @@ def root():
                   color="black")
         ui.button('NSFW Media', on_click=lambda e: reason_input.set_value("NSFW Media"),
                   color="black")
-        ui.button('Malicious Client Use', on_click=lambda e: reason_input.set_value("Malicious Client Use"), color="black")
+        ui.button('Malicious Client Use', on_click=lambda e: reason_input.set_value("Malicious Client Use"), color="black"),
+        ui.button('Bypassing Profanity Filter', on_click=lambda e: reason_input.set_value("Bypassing Profanity Filter"), color="black")
 
 
 

@@ -1109,6 +1109,21 @@
                     "platform": "Steam"
                 }
             ]
+        },
+        {
+            "username": "Sigma",
+            "reason": "Bypassing Profanity Filter",
+            "games": [
+                {
+                    "game": "BONELAB"
+                }
+            ],
+            "platforms": [
+                {
+                    "platformID": 76561199168695042,
+                    "platform": "Steam"
+                }
+            ]
         }
     ]
 }
