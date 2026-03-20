@@ -1139,6 +1139,21 @@
                     "platform": "Steam"
                 }
             ]
+        },
+        {
+            "username": "z1lohh",
+            "reason": "Crashing Public Lobbies",
+            "games": [
+                {
+                    "game": "BONELAB"
+                }
+            ],
+            "platforms": [
+                {
+                    "platformID": 76561199644208506,
+                    "platform": "Steam"
+                }
+            ]
         }
     ]
 }
