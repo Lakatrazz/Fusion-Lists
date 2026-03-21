@@ -1154,6 +1154,21 @@
                     "platform": "Steam"
                 }
             ]
+        },
+        {
+            "username": "zman",
+            "reason": "Alting",
+            "games": [
+                {
+                    "game": "BONELAB"
+                }
+            ],
+            "platforms": [
+                {
+                    "platformID": 76561199646240167,
+                    "platform": "Steam"
+                }
+            ]
         }
     ]
 }

@@ -145,7 +145,7 @@ def root():
     reason_input = ui.input("reason", on_change=lambda e: set_reason(e.value))
 
     with ui.dropdown_button('Preset Reasons', auto_close=True, color="transparent"):
-        ui.button('Alting', on_click=lambda e: reason_input.set_value("alting"), color="black")
+        ui.button('Alting', on_click=lambda e: reason_input.set_value("Alting"), color="black")
         ui.button('Crashing Public Lobbies', on_click=lambda e: reason_input.set_value("Crashing Public Lobbies"), color="black")
         ui.button('NSFW Behavior', on_click=lambda e: reason_input.set_value("NSFW Behavior"),
                   color="black")
