@@ -14,7 +14,8 @@
     },
     {
       "barcodes": [
-        "SLZ.BONELAB.Core.Spawnable.RigManagerBlank"
+        "SLZ.BONELAB.Core.Spawnable.RigManagerBlank",
+		"SLZ.BONELAB.Core.Spawnable.GameplaySystems"
       ],
       "modID": -1,
       "nameID": "bonelab"
