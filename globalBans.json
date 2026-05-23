@@ -1169,6 +1169,21 @@
                     "platform": "Steam"
                 }
             ]
+        },
+        {
+            "username": "NeverHadAVacBan",
+            "reason": "Spoofing Lobby Data",
+            "games": [
+                {
+                    "game": "BONELAB"
+                }
+            ],
+            "platforms": [
+                {
+                    "platformID": 76561199368488120,
+                    "platform": "Steam"
+                }
+            ]
         }
     ]
 }
