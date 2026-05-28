@@ -1199,6 +1199,21 @@
                     "platform": "Steam"
                 }
             ]
+        },
+        {
+            "username": "conplex66",
+            "reason": "Malicious Client Use",
+            "games": [
+                {
+                    "game": "BONELAB"
+                }
+            ],
+            "platforms": [
+                {
+                    "platformID": 76561198713495584,
+                    "platform": "Steam"
+                }
+            ]
         }
     ]
 }
