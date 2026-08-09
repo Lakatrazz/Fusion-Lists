@@ -19,7 +19,18 @@
       ],
       "modID": -1,
       "nameID": "bonelab"
+    },
+    {
+      "barcodes": [
+      ],
+      "modID": 6289039,
+      "nameID": "georgiesprivmod"
+    },
+    {
+      "barcodes": [
+      ],
+      "modID": 6250845,
+      "nameID": "gl-reboot"
     }
   ]
 }
-
