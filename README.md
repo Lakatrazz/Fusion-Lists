@@ -2,6 +2,8 @@
 Remotely fetched lists for the [Fusion multiplayer mod](https://github.com/Lakatrazz/BONELAB-Fusion).
 
 ## Global Ban List
+### NOTE: New bans are not currently being added. The ban system is a bit messy and does not allow for temp bans, and adding bans is tedious. Bans will be updated again when there is a better reporting system, temporary bans are added, and an app is made to make adding/committing bans easier.
+
 The Global Ban List is located at [globalBans.json](globalBans.json). It contains the following information in json format:
 - Username
 - Reason
