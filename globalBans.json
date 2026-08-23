@@ -76,21 +76,6 @@
             ]
         },
         {
-            "username": "Yeenie",
-            "reason": "Crashing Public Lobbies",
-            "games": [
-                {
-                    "game": "BONELAB"
-                }
-            ],
-            "platforms": [
-                {
-                    "platformID": 76561198134119035,
-                    "platform": "Steam"
-                }
-            ]
-        },
-        {
             "username": "speeps",
             "reason": "Malicious Client Use",
             "games": [
@@ -916,21 +901,6 @@
             ]
         },
         {
-            "username": "stelladev",
-            "reason": "Crashing Public Lobbies",
-            "games": [
-                {
-                    "game": "BONELAB"
-                }
-            ],
-            "platforms": [
-                {
-                    "platformID": 76561199108580189,
-                    "platform": "Steam"
-                }
-            ]
-        },
-        {
             "username": "spider1pac",
             "reason": "Crashing Public Lobbies",
             "games": [
@@ -1051,21 +1021,6 @@
             ]
         },
         {
-            "username": "woopet",
-            "reason": "NSFW Media",
-            "games": [
-                {
-                    "game": "BONELAB"
-                }
-            ],
-            "platforms": [
-                {
-                    "platformID": 76561199507569296,
-                    "platform": "Steam"
-                }
-            ]
-        },
-        {
             "username": "Sigma",
             "reason": "Bypassing Profanity Filter",
             "games": [
@@ -1076,21 +1031,6 @@
             "platforms": [
                 {
                     "platformID": 76561199168695042,
-                    "platform": "Steam"
-                }
-            ]
-        },
-        {
-            "username": "Dabboy@WAR",
-            "reason": "NSFW Media",
-            "games": [
-                {
-                    "game": "BONELAB"
-                }
-            ],
-            "platforms": [
-                {
-                    "platformID": 76561198859878729,
                     "platform": "Steam"
                 }
             ]
